@@ -35,3 +35,8 @@ git remote show origin
 git push origin master 
 git push origin master -u 
 
+git fetch
+git merge origin/master
+
+git pull origin master   ( fetc + merge )
+git pull (since we have use -u while pushing we can use directly git pull )

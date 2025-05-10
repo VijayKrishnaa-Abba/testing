@@ -26,3 +26,12 @@ git log
 
 git commit -a -m "fix: typo"
 (1. Check does this add untrackecd file or not)
+
+git remote 
+git remote -v 
+git remote show origin
+
+
+git push origin master 
+git push origin master -u 
+

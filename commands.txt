@@ -20,3 +20,8 @@ git reset single_file
 
 
 
+git commit -m "write your message"
+
+git log 
+
+git commit -a -m "fix: typo"

@@ -1,0 +1,22 @@
+
+git --version 
+git config --list 
+:q
+
+git config --global user.name "vijaykrishna"
+git config --global user.email "viay@gmail.com"
+
+
+git init 
+git status 
+
+.gitignore  file 
+
+git add . ( Adds to stage)
+git reset . ( Remove from stage)
+
+git add single_file
+git reset single_file
+
+
+

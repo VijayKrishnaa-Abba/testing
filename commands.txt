@@ -25,3 +25,4 @@ git commit -m "write your message"
 git log 
 
 git commit -a -m "fix: typo"
+(1. Check does this add untrackecd file or not)

@@ -40,3 +40,11 @@ git merge origin/master
 
 git pull origin master   ( fetc + merge )
 git pull (since we have use -u while pushing we can use directly git pull )
+
+git clone <repo-url> <local-directory>
+
+git branch 
+git branch -M main   === Rename current Branch 
+git branch awesome  ===  Create a new branch  
+git branch -d awesome === delete a branch ( safe way only delete if it is not merged to master or main branch )
+git branch -D awesome (delets no matter what )
